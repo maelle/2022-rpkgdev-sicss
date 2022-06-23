@@ -6,17 +6,10 @@
 
 # Become an R package developer!
 
-## Workshop for R-Ladies Jozi| 2022-04-04
-
-This repo contains the materials for a 2 hour workshop on R package development. <br>
-Visit [https://rladies-jozi-r-pkg-dev.netlify.app/](https://rladies-jozi-r-pkg-dev.netlify.app/) to see the live version!
-
-### Instructor (+ Content)
-Maelle Salmon | ([@maelle](//github.com/maelle)) | [masalmon.eu](https://masalmon.eu) | [@ma_salmon](//twitter.com/ma_salmon)
+## Workshop for SICSS-Covenant June 28, 2022 | Covenant University, Ogun State, Nigeria
 
 
-### Organizers
-- [R-Ladies Johannesburg](https://www.meetup.com/rladies-johannesburg/events/284974968/) | [@RLadiesELansing](//twitter.com/RLadiesJozi)
+This repo contains the materials for a 2 hour workshop on R package development. 
 
 Source of the website of a short course.
 

@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 11
 output: hugodown::md_document
-rmd_hash: d7bd36c2dc750f16
+rmd_hash: 6bb317061ef129ef
 
 ---
 
@@ -152,7 +152,7 @@ This was a very brief presentation, and a complex topic.
 
 ## Thank you!
 
-Thanks for listening, thanks R-Ladies Johannesburg for organizing! :pray:
+Thanks for listening, thanks SICSS-Covenant (in particular Emmanuel Olamijuwon) for organizing! :pray:
 
 Happy R package development! :package:
 

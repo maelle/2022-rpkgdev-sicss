@@ -4,9 +4,8 @@ title: "Become an R Package Developer!"
 
 # Become an R Package Developer!
 
-> Monday, April the 4th, 2022. 
-> R-Ladies Johannesburg
-> [Event info on Meetup](https://www.meetup.com/fr-FR/rladies-johannesburg/)
+> Tuesday June 28, 2022 
+> [SICSS-Covenant](https://sicss.io/2022/covenant-university/schedule)
 
 "Develop an R package", they said...
 What does this even mean?
