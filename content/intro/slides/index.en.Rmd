@@ -15,7 +15,7 @@ countdown: true
 
 ---
 
-## Bonjour depuis Nancy !
+## Bonjour from Nancy !
 
 ```{r, echo=FALSE}
 library("magrittr")

@@ -17,7 +17,7 @@ rmd_hash: 832d97701b700b37
 
 ------------------------------------------------------------------------
 
-## Bonjour depuis Nancy !
+## Bonjour from Nancy !
 
 <div class="highlight">
 
