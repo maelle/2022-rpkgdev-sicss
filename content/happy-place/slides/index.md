@@ -36,7 +36,7 @@ This slidedeck focuses on R package development. :wink:
 
 ## Find your happy place
 
-Especially is open-source work happens in your free time.
+Especially if open-source work happens in your free time.
 
 Right amount of time, right task fit.
 
