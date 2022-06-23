@@ -1,4 +1,4 @@
-baseURL = "https://rladies-jozi-r-pkg-dev.netlify.app/"
+baseURL = "https://rpkgdev-sicss-covenant.netlify.app/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 title = "Become an R Package Developer!"

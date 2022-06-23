@@ -156,5 +156,5 @@ Thanks for listening, thanks SICSS-Covenant (in particular Emmanuel Olamijuwon) 
 
 Happy R package development! :package:
 
-<https://rladies-jozi-r-pkg-dev.netlify.app/>
+<https://rpkgdev-sicss-covenant.netlify.app/>
 

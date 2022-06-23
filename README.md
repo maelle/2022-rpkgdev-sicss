@@ -1,6 +1,6 @@
 
 <!-- badges: start -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8aeb0e37-d981-47ce-8689-591ecb3acc3d/deploy-status)](https://app.netlify.com/sites/rladies-jozi-r-pkg-dev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d280a28-d7bd-4a10-9615-023ca8dc5e3d/deploy-status)](https://app.netlify.com/sites/rpkgdev-sicss-covenant/deploys)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <!-- badges: end -->
 

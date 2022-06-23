@@ -179,7 +179,7 @@ Get to know an actually useful Clippy, `{usethis}`!
 
 ## Website tour
 
-:link: https://rladies-jozi-r-pkg-dev.netlify.app/
+:link: https://rpkgdev-sicss-covenant.netlify.app/
 
 Slides, notes from the demo, further resources, comments!
 
