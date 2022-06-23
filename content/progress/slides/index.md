@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: 3570e1242c73235d
+rmd_hash: c19e59736e35c0b4
 
 ---
 
@@ -193,7 +193,7 @@ Blog posts: digested information.
 
 Fora: Help and learn.
 
-[R-package-devel](https://stat.ethz.ch/mailman/listinfo/r-package-devel), [RStudio community "package development" category](https://community.rstudio.com/c/package-development/11), [rOpenSci forum](https://discuss.ropensci.org/).
+[RStudio community "package development" category](https://community.rstudio.com/c/package-development/11), [rOpenSci forum](https://discuss.ropensci.org/), [R-package-devel](https://stat.ethz.ch/mailman/listinfo/r-package-devel).
 
 💡 Manage your subscriptions & involvement wisely!
 
